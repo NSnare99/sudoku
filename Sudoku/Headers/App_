@@ -1,0 +1,16 @@
+#ifndef APP_
+#define APP_
+
+
+class App
+{
+    public:
+        App();
+        virtual ~App();
+
+    protected:
+
+    private:
+};
+
+#endif // APP_
